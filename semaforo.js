@@ -41,7 +41,8 @@ function semaAutomatico() {
         }
        sema.src = imgs[imgTest];     
 
-}, 500);
+}, 10
+00);
 }
 
 btnVermelho.addEventListener("click", semaVermelho);
